@@ -7,7 +7,15 @@
 
 - 🔭 I’m currently working on [replicate Google search page with HTML and CSS](https://github.com/Craos6518/Sena-2023.git)
 
+- 🌱 I’m currently learning **freamwork, html5, css and JavaScript**
+
 - 🤝 I’m looking for help with [I am looking for help with HTML, CSS](https://github.com/Craos6518/Sena-2023.git)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Craos6518](https://github.com/Craos6518)
+
+- 💬 Ask me about **Python, C99**
+
+- 📫 How to reach me **f.martinez5@utp.edu.co**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=craos6518&show_icons=true&locale=en" alt="craos6518" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=craos6518&" alt="craos6518" /></p>
+
